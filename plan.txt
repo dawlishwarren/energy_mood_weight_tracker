@@ -1,0 +1,20 @@
+User inputs data:
+Weight (kg), to one decimal place
+Mood (1-10)
+Energy (1-10)
+DateTime (automatic)
+Notes (text)
+
+Data populates supabase table
+
+
+Table populates Nivo
+One line chart with a time scale
+One grouped bar chart for mood and energy
+
+
+Optional:
+Weekly roundup of figures
+    Compares weight loss / gain
+    Average mood and weight
+    
